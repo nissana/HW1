@@ -1,5 +1,7 @@
-# HW1
-Week 1 Project: Dropbox
+# HW1 
+### Dropbox
+
+Week 1 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners).
 
 Use Xcode to implement the flow between the screens of the Dropbox app.
 
