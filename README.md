@@ -5,13 +5,13 @@ Week 1 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp
 
 Time spent: 6 hours total
 
-#####Completed user stories
+#####Completed user stories:
  * [x] Required: Setup, Welcome screens, Create account/Sign in, Signed In: New User, Signed In: Existing User, Logging Out
  * [x] Optional: UITextFields for the Signed In forms and handling dismissing the keyboard
  * [x] Optional: Swipe through the welcome screens instead of just tapping them
  
 
-#####GIF walkthrough
+#####GIF walkthrough:
 
 ![hw1](https://cloud.githubusercontent.com/assets/10460611/6100169/99b939e2-afbe-11e4-9406-60dcd113da48.gif)
 
