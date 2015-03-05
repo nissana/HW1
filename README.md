@@ -5,7 +5,7 @@ Week 1 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp
 
 Use Xcode to implement the flow between the screens of the Dropbox app.
 
-Time spent: 6 hours spent in total
+Time spent: 6 hours total
 
 Completed user stories:
  * [x] Required: Setup, Welcome screens, Create account/Sign in, Signed In: New User, Signed In: Existing User, Logging Out
